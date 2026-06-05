@@ -1,6 +1,6 @@
 # DESARROLLO
 ## 👥 Integrantes del Proyecto
-* *[COMPLETAR CON INTEGRANTE 1]*
+* *Arias, Matías*
 * *[COMPLETAR CON INTEGRANTE 2]*
 * *[COMPLETAR CON INTEGRANTE 3]*
 
