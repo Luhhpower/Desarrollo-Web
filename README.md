@@ -1,6 +1,4 @@
-# DESARROLLO
-Proyecto:
-Implementación de sistema GLPI
+# Implementación de sistema GLPI
 
 ## 👥 Integrantes del Proyecto
 * *Arias, Matías*
