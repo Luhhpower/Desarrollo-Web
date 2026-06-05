@@ -1,10 +1,13 @@
 # DESARROLLO
+Proyecto:
+Implementación de sistema GLPI
+
 ## 👥 Integrantes del Proyecto
 * *Arias, Matías*
 * *Galli, Mariano*
 * *Maldonado, Patricio*
-* *Marcenaro, Lucía *
-* *Sanfilippo, Lucio *
+* *Marcenaro, Lucía*
+* *Sanfilippo, Lucio*
 
 *Asignatura:* Desarrollo Web  
 *Año:* 2026  
